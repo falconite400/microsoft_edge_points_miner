@@ -9,4 +9,7 @@ The program will open a new window in microsoft edge. It will then go to bing.co
 The program will search the numbers 0-33 (34 search terms). As of when I wrote this, the maximum number of points allowed per day from searching (on desktop) is 170, with each search giving you 5 points.
 
 
+If microsoft questions your large amount of points, it wasn't me
+
+
 Have fun
