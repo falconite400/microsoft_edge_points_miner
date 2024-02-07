@@ -10,9 +10,10 @@ The program will search the numbers 0-33 (34 search terms). As of when I wrote t
 
 
 There is also an .exe file you can run. If you want to build the .exe from source you can run:
+```
 	pip install pyinstaller
 	pyinstaller --onefile ./msepoints.py
-
+```
 
 If microsoft questions your large amount of points, it wasn't me
 
